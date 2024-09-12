@@ -1,0 +1,14 @@
+{
+  "participants": [
+    {
+      "eventId": 1,
+      "participantName":"Sinta",
+      "email": "sinta@gmail.com"
+    },
+    {
+      "eventId": 2,
+      "participantName":"Adinda",
+      "email": "adinda@gmail.com"
+    }
+  ]
+}

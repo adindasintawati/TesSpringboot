@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "title": "Kuliner",
+      "startOn":"2024-02-25T06:05:00.000000",
+      "completeOn": "2024-02-27T10:27:00.000000",
+      "participant": 100,
+      "location": "BANDUNG",
+      "version": 0
+    },
+    {
+      "title": "Musik",
+      "startOn":"2024-02-25T06:05:00.000000",
+      "completeOn": "2024-02-27T10:27:00.000000",
+      "participant": 200,
+      "location": "SERPONG",
+      "version": 0
+    }
+  ]
+}
